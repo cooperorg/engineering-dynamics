@@ -28,3 +28,31 @@ This course explores the geometry of motion and the effect of forces,
 impact, and energy in engineering. __Kinematics__ is the study of the
 geometry of motion. __Kinetics__ is the study of forces, impacts, and
 energy on objects. 
+
+## [Module_00](./module_00/introduction.md)
+- [Meet Professor Cooper](https://cooperrc.github.io)
+- [Course Overview](./module_00/overview.md)
+- [Getting started with Python](./getting-started/01_interactions.ipynb)
+
+## [Module_01](./module_01/overview.md)
+- [Reference Material](./module_01/readings.md)
+- [Intro to Dynamics](./module_01/introduction.ipynb)
+- [Philosophy of Newtonian Dynamics](./module_01/philosophy.md)
+- [Definitions of Dynamics](./module_01/definitions.ipynb)
+- [Example: Snowflake time of flight](./module_01/snowflake.ipynb)
+- [Homework_01](./module_01/homework.md)
+- [Project_01](./module_01/project.md)
+- 
+## [Module_02](./module_02/overview.md)
+- [Reference Material](./module_02/readings.md)
+- [Mechanical Advantage](./module_02/mechanical-advantage.ipynb)
+- [Driving Forces](./module_02/driving-forces.ipynb)
+- [A Happy Valentine linkage](./module_02/valentine.ipynb)
+- [Homework_02](./module_02/homework.md)
+- [Project_02](./module_03/project.md)
+
+## [Module_03](./module_03/overview.md)
+- [Reference Material](./module_03/readings.md)
+- [Solutions with equations of motion](./module_03/solving-eoms.md)
+- [Homework_03](./module_03/homework.md)
+- [Project_03](./module_03/project.md)
