@@ -54,6 +54,7 @@ if [ ! -d ${userDirectory} ]; then
  
   # Copy all files matching .md, .npz, or .csv file types.
   copyFileType "md" ${toolDirectory} ${userDirectory}
+  copyFileType "ipynb" ${toolDirectory} ${userDirectory}
   copyFileType "npz" ${toolDirectory} ${userDirectory}
   copyFileType "csv" ${toolDirectory} ${userDirectory}
      
