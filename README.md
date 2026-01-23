@@ -42,7 +42,7 @@ energy on objects.
 - [Philosophy of Newtonian Dynamics](./module_01/philosophy.md)
 - [Definitions of Dynamics](./module_01/definitions.ipynb)
 - [Example: Snowflake time of flight](./module_01/snowflake.ipynb)
-- [Homework_01](./module_01/homework.md)
+- [Galileo's rolling experiment](module_01/galileo.ipynb)
 - [Project_01](./module_01/project.md)
  
 ## [Module_02](./module_02/overview.md)
@@ -50,7 +50,6 @@ energy on objects.
 - [Mechanical Advantage](./module_02/mechanical-advantage.ipynb)
 - [Driving Forces](./module_02/driving-forces.ipynb)
 - [A Happy Valentine linkage](./module_02/valentine.ipynb)
-- [Homework_02](./module_02/homework.md)
 - [Project_02](./module_02/project.ipynb)
 
 ## [Module_03](./module_03/overview.md)
@@ -62,7 +61,6 @@ energy on objects.
 - [Plotting a pendulum solution](./module_03/pendulum.ipynb)
 - [Plotting a _nonlinear_ pendulum solution](./module_03/nonlinear.ipynb)
 - [Rolling on a hemisphere analysis](./module_03/hemisphere-rolling.ipynb)
-- [Homework_03](./module_03/homework.md)
 - [Project_03](./module_03/project.ipynb)
 
 ## [Module_04](./module_04/overview.md)
@@ -71,7 +69,6 @@ energy on objects.
 - [Central force motion](./module_04/central-force.ipynb)
 - [Moving reference frame with conservation of angular momentum](./module_04/table-momentum.ipynb)
 - [Yoyo despin design](./module_04/yoyo-despin_02.ipynb)
-- [Homework_04](./module_04/homework.md)
 - [Project_04](./module_04/project.ipynb)
 
 ## [Module_05](./module_05/overview.md)
